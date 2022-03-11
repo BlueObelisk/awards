@@ -9,4 +9,4 @@ The current list found [on this page](https://blueobelisk.github.io/awards.html)
 * set up criteria for awarding
 * set up a procedure for nomination
 * set up a process for the committee to decide on a nomination
-* 
+
